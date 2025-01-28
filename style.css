@@ -53,6 +53,21 @@ img {
     font-family: Pacifico;
 }
 
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn button {
+    height: 40px;
+    width: 100px;
+    border-radius: 6px;
+    background-color: rgb(5, 61, 245);
+    color: white;
+    font-family: Outfit;
+    box-shadow: 4px 4px 14px 4px #888888;
+}
 
 
 
